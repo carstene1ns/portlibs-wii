@@ -1,0 +1,15 @@
+
+# ignore all files by default
+*
+
+# but do not ignore complete subdirectories
+!**/
+
+# allow our markdown, patches and shell script files
+!README.md
+!**/README.md
+!**/*.patch
+!**/doit.sh
+
+# allow this file as well
+!/.gitignore
