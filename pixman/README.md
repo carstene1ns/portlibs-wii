@@ -6,7 +6,7 @@
 ```bash
 ./configure --host=powerpc-eabi --prefix="$DEVKITPRO/portlibs/ppc" \
             --disable-shared --enable-static --disable-vmx \
-            PKG_CONFIG_PATH="$DEVKITPRO/portlibs/ppc/lib/pkgconfig" \
+            PKG_CONFIG_LIBDIR="$DEVKITPRO/portlibs/ppc/lib/pkgconfig" \
             CFLAGS="-g -O2 -Wall -DGEKKO -mcpu=750 -meabi -mhard-float"
 ```
 
