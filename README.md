@@ -14,3 +14,10 @@ libiconv
 
 * version: 1.14
 * purpose: perform character set conversion
+
+
+devil
+-----
+
+* version: 1.7.8
+* purpose: image library utilizing a simple syntax
