@@ -1,4 +1,10 @@
 portlibs-wii
 ============
 
-assorted libraries for usage with wii homebrew (some with wii specific patches)
+Assorted libraries for usage with Wii homebrew (some with Wii specific patches)
+
+pixman
+------
+
+version: 0.32.4
+purpose: low-level pixel manipulation
