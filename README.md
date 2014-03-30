@@ -1,13 +1,24 @@
 portlibs-wii
 ============
 
-Assorted libraries for usage with Wii homebrew (some with Wii specific patches)
+Assorted libraries useable for Wii homebrew development (some with Wii specific
+patches). For installation instructions see README.md in subfolder of specific
+library.
 
-pixman
-------
 
-* version: 0.32.4
-* purpose: low-level pixel manipulation
+devil
+-----
+
+* version: 1.7.8
+* purpose: image library utilizing a simple syntax
+
+
+expat
+-----
+
+* version: 2.1.0
+* purpose: parse xml files
+
 
 libiconv
 --------
@@ -16,8 +27,9 @@ libiconv
 * purpose: perform character set conversion
 
 
-devil
------
+pixman
+------
 
-* version: 1.7.8
-* purpose: image library utilizing a simple syntax
+* version: 0.32.4
+* purpose: low-level pixel manipulation
+
