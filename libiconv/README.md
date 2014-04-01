@@ -1,6 +1,10 @@
 
 # Build and Installation
 
+## download
+
+http://ftp.gnu.org/gnu/libiconv/libiconv-1.14.tar.gz
+
 ## patch
 
 ```bash

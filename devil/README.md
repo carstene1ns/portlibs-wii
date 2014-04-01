@@ -1,6 +1,10 @@
 
 # Build and Installation
 
+## download 
+
+http://downloads.sourceforge.net/openil/DevIL-1.7.8.tar.gz
+
 ## patch
 
 ```bash

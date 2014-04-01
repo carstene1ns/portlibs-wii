@@ -1,6 +1,10 @@
 
 # Build and Installation
 
+## download
+
+http://cairographics.org/releases/pixman-0.32.4.tar.gz
+
 ## configure
 
 ```bash
