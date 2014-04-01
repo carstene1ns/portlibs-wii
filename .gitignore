@@ -10,6 +10,7 @@
 !**/README.md
 !**/*.patch
 !**/doit.sh
+!_helper/*
 
 # allow this file as well
 !/.gitignore
