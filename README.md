@@ -33,3 +33,10 @@ pixman
 * version: 0.32.4
 * purpose: low-level pixel manipulation
 
+
+speex
+-----
+
+* version: 1.2rc1
+* purpose: codec and resampler library
+
